@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+    background-image: url("r.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+h1{
+    float: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+#overlay{
+    margin: 50px auto;
+    width: 960px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#block1{
+   width: 500px;
+   height: 500px;
+   float: left;
+}
+#block1 img{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 33px;
+}
+#block2{
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+    
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: skyblue;
+    border-radius: 2px;
+    color: white;
+}
+p{
+    color: black;
+    font-size: 16px;
+}
